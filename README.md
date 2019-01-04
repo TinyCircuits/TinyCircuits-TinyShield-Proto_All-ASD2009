@@ -1,15 +1,15 @@
 # TinyCircuits TinyShield Proto All Board
 # ASD2009 Rev1
 
-These are the design files for the TinyCircuits ASD2009 Rev 1 PCB.  This is a Tiny shield board (Square Version, 20mm x 20mm) that has all of the shield signals brought out to 0.1" spaced holes. 
+The design files are located under design_files/ for the TinyCircuits ASD2009 Rev 1 PCB.  This is a Tiny shield board (Square Version, 20mm x 20mm) that has all of the shield signals brought out to 0.1" spaced holes. 
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
-For more infomation on this, check out the product page at Tiny-Circuits.com:  https://tiny-circuits.com/tiny-shield-proto-board-all-139.html
+For more infomation on this, check out the product page at TinyCircuits.com: https://tinycircuits.com/collections/proto-boards/products/proto-board-tinyshield?variant=14984618823
 
 
 
-#License:
+# License:
 
 Design by TinyCircuits.
 All design files are released under the Creative Commons Attribution Share-Alike 3.0 License, see the following link for details: http://creativecommons.org/licenses/by-sa/3.0
